@@ -1,0 +1,1 @@
+int leerArchivoConfig(char* ArchivoConfig, char* parametro);
